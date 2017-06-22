@@ -18,7 +18,7 @@ puts "Phone Num : #{phone}"
 phone = phone.gsub!(/\D/, "")
 puts "Phone Num : #{phone}"
 
-
+line1 = "cats are smarter than dogs"{if the two don't work noew "what the "'}
   
 
 
